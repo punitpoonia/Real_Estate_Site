@@ -1,5 +1,5 @@
 @push('title')
-    Sign Up To DG-Estate
+    Sign Up To Home for People
 @endpush
 @include('layouts.header')
 
@@ -7,10 +7,10 @@
 <div class="container col-xl-10 col-xxl-8 px-4 py-5">
     <div class="row align-items-center g-lg-5 py-5">
         <div class="col-lg-7 text-center text-lg-start">
-            <h1 class="display-4 fw-bold lh-1 mb-3">Welcome to<br /> DG-Estate</h1>
+            <h1 class="display-4 fw-bold lh-1 mb-3">Welcome to<br /> Home for People</h1>
             <p class="col-lg-10 fs-4">
-                This is just bunch of random text you don't need to read it. Stop it already I told you don't read it.
-                Fine do whaterver you want read this too. It took me F***ing ** Months to make this Project.
+            Home is where love resides, memories are created, friends always belong, and laughter never ends.
+            Your home should tell the story of who you are and be a collection of what you love.
             </p>
         </div>
         <div class="col-md-10 mx-auto col-lg-5">
